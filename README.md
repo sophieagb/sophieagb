@@ -1,8 +1,8 @@
-# Hi there! My name is Sophie Agbekpenou
+# Hi there! My name is Sophie
 
 ## About Me
 
-🍵 studying Computer Science @ Columbia University
+🍵 studying computer science @ columbia university
 
 🌱 currently working on full stack projects
 
