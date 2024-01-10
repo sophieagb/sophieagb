@@ -1,6 +1,4 @@
-# Welcome to My GitHub Profile!
-
-Hi there! My name is Sophie Agbekpenou.
+# Hi there! My name is Sophie Agbekpenou
 
 ## About Me
 
@@ -13,8 +11,7 @@ Hi there! My name is Sophie Agbekpenou.
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sophie2004=your-sophie2004&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sophie2004=anuraghazra&layout=compact)
 
 <!--
 **sophie2004/sophie2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
