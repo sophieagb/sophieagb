@@ -11,7 +11,8 @@
 
 ## Top Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?sophie2004=anuraghazra&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie2004&layout=compact)
+
 
 <!--
 **sophie2004/sophie2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
