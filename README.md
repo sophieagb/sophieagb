@@ -8,9 +8,6 @@
 
 💌 reach me @ https://www.linkedin.com/in/sophie-flore/
 
-
-## Top Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophie2004&layout=compact)
 
 
