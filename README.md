@@ -4,8 +4,6 @@
 
 🍵 studying computer science @ columbia university
 
-💻 incoming Google intern
-
 🌱 currently working on full stack projects
 
 💌 reach me @ https://www.linkedin.com/in/sophie-flore/
