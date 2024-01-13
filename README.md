@@ -4,7 +4,7 @@
 
 🍵 studying computer science @ columbia university
 
-💻 inconming Google intern
+💻 incoming Google intern
 
 🌱 currently working on full stack projects
 
