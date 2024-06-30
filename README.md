@@ -8,7 +8,7 @@
 
 🌱 currently working on full stack projects
 
-💌 reach me @ https://www.linkedin.com/in/sophie-flore/
+💌 reach me @ https://www.linkedin.com/in/sophie-agbekpenou/
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sophieagb&layout=compact)
 
