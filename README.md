@@ -4,7 +4,7 @@
 
 🍵 studying computer science @ columbia university
 
-💻 incoming Google intern
+💻 check out my portfolio website, showcasing my work experience, projects and resume: https://sophieagb.github.io/
 
 🌱 currently working on full stack projects
 
